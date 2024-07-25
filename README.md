@@ -1,2 +1,0 @@
-# CeleryNewest
-Celery Roblox Executor
